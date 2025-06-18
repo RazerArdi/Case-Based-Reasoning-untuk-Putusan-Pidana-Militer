@@ -1,136 +1,143 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[][contributors-url]
+[][forks-url]
+[][stars-url]
+[][issues-url]
+[][license-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Sistem Case-Based Reasoning untuk Analisis Putusan Pidana Militer</h3>
-
-<a href="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" title="Lihat Logo Mahkamah Agung">
-  <img 
-    src="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" 
-    alt="Logo Mahkamah Agung" 
-    style="display: block;"
-  >
+<a href="https://putusan3.mahkamahagung.go.id" title="Mahkamah Agung RI">
+<img src="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" alt="Logo Mahkamah Agung" width="220">
 </a>
-
-
-  <p align="center">
-    Sistem berbasis Python untuk menganalisis dan merekomendasikan putusan pengadilan pidana militer menggunakan pendekatan Case-Based Reasoning (CBR).
-    <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Lihat Dokumentasi »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your_username/repo_name">Lihat Demo</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues/new?labels=bug&template=bug-report.md">Laporkan Bug</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues/new?labels=enhancement&template=feature-request.md">Ajukan Fitur</a>
-  </p>
+<h3 align="center">Sistem Case-Based Reasoning untuk Analisis Putusan Pidana Militer</h3>
+<p align="center">
+Sebuah sistem berbasis Python untuk menganalisis dan merekomendasikan putusan pengadilan pidana militer menggunakan pendekatan Case-Based Reasoning (CBR).
+<br />
+<a href="https://github.com/RazerArdi/Case-Based-Reasoning-untuk-Putusan-Pidana-Militer"><strong>Jelajahi Notebook »</strong></a>
+<br />
+<br />
+<a href="https://github.com/RazerArdi/Case-Based-Reasoning-untuk-Putusan-Pidana-Militer/issues">Laporkan Bug</a>
+·
+<a href="https://github.com/RazerArdi/Case-Based-Reasoning-untuk-Putusan-Pidana-Militer/issues">Ajukan Fitur</a>
+</p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Daftar Isi</summary>
-  <ol>
-    <li>
-      <a href="#tentang-proyek">Tentang Proyek</a>
-      <ul>
-        <li><a href="#dibuat-dengan">Dibuat dengan</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#memulai">Memulai</a>
-      <ul>
-        <li><a href="#prasyarat">Prasyarat</a></li>
-        <li><a href="#instalasi">Instalasi</a></li>
-      </ul>
-    </li>
-    <li><a href="#penggunaan">Penggunaan</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#kontribusi">Kontribusi</a></li>
-    <li><a href="#lisensi">Lisensi</a></li>
-    <li><a href="#kontak">Kontak</a></li>
-    <li><a href="#penghargaan">Penghargaan</a></li>
-  </ol>
+<summary>Daftar Isi</summary>
+<ol>
+<li><a href="#tentang-proyek">Tentang Proyek</a></li>
+<li><a href="#tabel-pemenuhan-parameter-uas">Tabel Pemenuhan Parameter UAS</a></li>
+<li><a href="#dibuat-dengan">Dibuat Dengan</a></li>
+<li><a href="#memulai">Memulai</a></li>
+<li><a href="#struktur-direktori">Struktur Direktori</a></li>
+<li><a href="#roadmap-proyek">Roadmap Proyek</a></li>
+<li><a href="#kontribusi">Kontribusi</a></li>
+<li><a href="#lisensi">Lisensi</a></li>
+<li><a href="#kontak">Kontak</a></li>
+<li><a href="#penghargaan">Penghargaan</a></li>
+</ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 ## Tentang Proyek
 
-Proyek ini merupakan implementasi sistem *Case-Based Reasoning* (CBR) untuk menganalisis dan merekomendasikan putusan pengadilan dalam domain pidana militer. Sistem ini memanfaatkan data putusan riil dari [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/). Alur kerja sistem mencakup lima tahap utama:
+Proyek ini adalah implementasi dari sistem **Case-Based Reasoning (CBR)** sederhana yang dirancang untuk menganalisis putusan pengadilan dalam domain **Pidana Militer**. Sistem ini dibangun menggunakan Python dan memanfaatkan data putusan yang dipublikasikan di [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/).
 
-1. **Membangun Case Base**: Mengunduh (scraping) dan membersihkan minimal 50 dokumen putusan pidana militer.
-2. **Case Representation**: Mengekstrak metadata (nomor perkara, terdakwa, dll.) dan fitur teks (ringkasan fakta, amar putusan) ke format CSV.
-3. **Case Retrieval**: Menggunakan pendekatan statistik TF-IDF dan *Cosine Similarity* untuk menemukan kasus serupa berdasarkan kueri.
-4. **Solution Reuse**: Memprediksi amar putusan untuk kasus baru dengan metode *Majority Vote* dari top-5 kasus termirip.
-5. **Evaluasi Model**: Mengukur performa retrieval dengan metrik *Precision@5* menggunakan data *ground truth* semi-otomatis.
+Siklus CBR yang diterapkan mencakup:
 
-Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah Penalaran Komputer di Fakultas Teknik Informatika, Universitas Muhammadiyah Malang.
+1. **Membangun Case Base**: Mengunduh dan membersihkan lebih dari 30 dokumen putusan pidana militer.
+2. **Case Representation**: Mengekstrak metadata dan fitur teks penting, kemudian menyimpannya dalam format `.csv`.
+3. **Case Retrieval**: Mengimplementasikan tiga model berbeda (TF-IDF + Cosine Similarity, SVM, dan IndoBERT) untuk menemukan kasus-kasus yang paling relevan dengan kueri baru.
+4. **Solution Reuse**: Mengadaptasi "solusi" dari kasus-kasus termirip (top-k) untuk memprediksi amar putusan pada kasus baru menggunakan metode *Majority Vote*.
+5. **Evaluasi Model**: Menganalisis dan membandingkan performa ketiga model retrieval menggunakan metrik standar seperti Akurasi, Presisi, Recall, dan F1-Score.
 
-<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
-
-### Dibuat dengan
-
-- ![Python][Python]
-- ![Pandas][Pandas]
-- ![Scikit-learn][Scikit-learn]
-- ![BeautifulSoup][BeautifulSoup]
-- ![Matplotlib][Matplotlib]
-- ![Seaborn][Seaborn]
-- ![WordCloud][WordCloud]
+Proyek ini dikembangkan sebagai tugas Ujian Akhir Semester mata kuliah Penalaran Komputer di Fakultas Teknik Informatika, Universitas Muhammadiyah Malang.
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- GETTING STARTED -->
+## Tabel Pemenuhan Parameter UAS
+
+Tabel berikut merangkum pemenuhan setiap parameter yang diwajibkan dalam dokumen UAS.
+
+| Tahap / Parameter | Perintah UAS | Status Implementasi | Keterangan |
+|--------------------|--------------|---------------------|------------|
+| **Domain Kasus** | Pilih satu domain hukum spesifik. | ✅ **Terpenuhi** | Domain yang dipilih adalah **Pidana Militer**. |
+| **Volume Data** | Minimal 30 dokumen putusan. | ✅ **Terpenuhi** | Berhasil mengunduh dan memproses **81 dokumen**. |
+| **Tahap 1: Case Base** | Mengumpulkan, membersihkan, dan menyimpan data mentah (`.txt`). | ✅ **Terpenuhi** | Data mentah disimpan di direktori `data/raw/`. |
+| ↳ *Opsional* | Mencatat log pembersihan (`cleaning.log`). | ✅ **Terpenuhi** | File `cleaning.log` dibuat di direktori `logs/`. |
+| **Tahap 2: Representasi** | Ekstrak metadata & konten, simpan dalam format terstruktur (`.csv`). | ⚠️ **Terpenuhi Sebagian** | Disimpan ke `.csv`. Ekstraksi `no_perkara` & `amar_putusan` berhasil, namun `tanggal` & `pasal` sering gagal. |
+| **Tahap 3: Retrieval** | Implementasi TF-IDF **atau** Embedding (BERT). | ✅ **Terpenuhi (Melampaui)** | Mengimplementasikan **tiga model**: TF-IDF, SVM, dan IndoBERT. |
+| ↳ *Model* | Gunakan SVM/Naive Bayes **atau** model Transformer. | ✅ **Terpenuhi (Melampaui)** | Model SVM dan Transformer (IndoBERT) diimplementasikan. |
+| **Tahap 4: Reuse** | Prediksi solusi (amar putusan) dengan *Majority Vote* dari top-k kasus. | ✅ **Terpenuhi** | Fungsi `predict_outcome` berhasil diimplementasikan. |
+| **Tahap 5: Evaluasi** | Ukur metrik (Akurasi, Presisi, Recall, F1). | ✅ **Terpenuhi** | Metrik diukur dan dibandingkan untuk ketiga model. |
+| ↳ *Opsional* | Analisis kegagalan (Error Analysis). | ✅ **Terpenuhi** | Analisis kegagalan sederhana untuk satu kueri dilakukan. |
+| **Output: Kode** | Notebook dan/atau script Python per tahap CBR. | ✅ **Terpenuhi** | Seluruh pipeline diimplementasikan dalam `fix_notebook.ipynb`. |
+| **Output: Repo** | Struktur direktori `/data`, `/notebooks`, dan `README.md`. | ✅ **Terpenuhi** | Struktur direktori proyek sesuai spesifikasi. |
+
+<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
+
+## Dibuat Dengan
+
+Daftar pustaka dan *framework* utama yang digunakan dalam proyek ini:
+
+- [Python](https://www.python.org/)
+- [Jupyter](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+- [Transformers](https://huggingface.co/docs/transformers/index)
+- [PyTorch](https://pytorch.org/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+- [PyMuPDF](https://pymupdf.readthedocs.io/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+
+<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
+
 ## Memulai
 
-Berikut adalah langkah-langkah untuk menyiapkan dan menjalankan proyek ini secara lokal.
+Berikut adalah panduan untuk menyiapkan dan menjalankan proyek ini di lingkungan lokal Anda.
 
 ### Prasyarat
 
-Pastikan Anda memiliki perangkat lunak berikut:
-- Python 3.10 atau lebih tinggi
-  ```sh
-  python --version
-  ```
-- pip (Python package manager)
-  ```sh
-  pip --version
-  ```
-- Jupyter Notebook
-  ```sh
-  jupyter notebook --version
-  ```
+Pastikan perangkat lunak berikut telah terinstal:
+
+- Python 3.10 atau versi lebih baru
+- `pip` dan `venv` (biasanya sudah termasuk dalam instalasi Python)
+- Jupyter Notebook atau Jupyter Lab
 
 ### Instalasi
 
 1. **Kloning Repositori**
+
    ```sh
-   git clone https://github.com/your_username/repo_name.git
+   git clone https://github.com/username/repo_name.git
    cd repo_name
    ```
 
-2. **Buat dan Aktifkan Virtual Environment (Direkomendasikan)**
+2. **Buat dan Aktifkan Virtual Environment**
+
    ```sh
+   # Untuk Linux/MacOS
+   python3 -m venv venv
+   source venv/bin/activate
+
+   # Untuk Windows
    python -m venv venv
-   source venv/bin/activate  # Linux/MacOS
-   venv\Scripts\activate     # Windows
+   venv\Scripts\activate
    ```
 
 3. **Instal Dependensi**
+
+   Gunakan file `requirements.txt` untuk menginstal semua pustaka yang dibutuhkan.
+
    ```sh
    pip install -r requirements.txt
    ```
 
-   Contoh isi `requirements.txt`:
-   ```
+   Isi file `requirements.txt`:
+
+   ```txt
    requests
    beautifulsoup4
    PyMuPDF
@@ -140,130 +147,99 @@ Pastikan Anda memiliki perangkat lunak berikut:
    matplotlib
    seaborn
    wordcloud
+   torch
+   transformers
+   ipywidgets
    ```
 
-4. **Ubah URL Remote Git (Opsional)**
-   Untuk menghindari push ke repositori asli secara tidak sengaja:
-   ```sh
-   git remote set-url origin https://github.com/your_username/your_repo_name.git
-   git remote -v  # Verifikasi perubahan
-   ```
+4. **Jalankan Jupyter**
 
-<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
-
-<!-- USAGE -->
-## Penggunaan
-
-Proyek ini dijalankan melalui Jupyter Notebook `fix_notebook.ipynb`. Berikut adalah langkah-langkah untuk menjalankan pipeline CBR secara end-to-end:
-
-1. **Jalankan Notebook**
    ```sh
    jupyter lab
    ```
-   Buka `fix_notebook.ipynb` di browser.
 
-2. **Ikuti Tahapan dalam Notebook**
-   - **Tahap 1**: Mengunduh dan membersihkan data putusan dari situs Mahkamah Agung, disimpan di `data/raw/`.
-   - **Tahap 2**: Mengekstrak fitur dan menyimpan data terstruktur di `data/processed/military_cases.csv`.
-   - **Tahap 3**: Membangun model retrieval berbasis TF-IDF untuk menemukan kasus serupa.
-   - **Tahap 4**: Memprediksi amar putusan untuk kueri baru menggunakan *Majority Vote*.
-   - **Tahap 5**: Mengevaluasi performa retrieval dengan *Precision@5* menggunakan data di `data/eval/queries_generated.json`.
-
-3. **Contoh Kueri**
-   Uji fungsi retrieval:
-   ```python
-   query = "seorang prajurit menggunakan dana kesatuan untuk kepentingan pribadi dan bermain judi online"
-   hasil_retrieval = retrieve_cases(query, k=3)
-   display(hasil_retrieval)
-   ```
-
-   Uji prediksi putusan:
-   ```python
-   query = "perwira keuangan menggelapkan uang untuk judi"
-   prediksi_amar = predict_outcome(query, k=5)
-   print(prediksi_amar)
-   ```
-
-4. **Struktur Direktori**
-   ```plaintext
-   repo_name/
-   ├── data/
-   │   ├── raw/                  # Teks mentah (*.txt)
-   │   ├── processed/            # Data terstruktur (military_cases.csv)
-   │   ├── eval/                 # Data ground truth (queries_generated.json)
-   │   └── results/              # Hasil prediksi (predictions.csv)
-   ├── notebooks/
-   │   └── fix_notebook.ipynb    # Notebook utama
-   ├── logs/                     # Log pembersihan (opsional)
-   ├── requirements.txt          # Daftar dependensi
-   └── README.md                 # File ini
-   ```
-
-Untuk detail lebih lanjut, lihat `fix_notebook.ipynb`.
+   Buka file `notebooks/fix_notebook.ipynb` dari antarmuka Jupyter dan jalankan setiap sel secara berurutan.
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
+## Struktur Direktori
 
-- [x] Membangun *Case Base* dengan *web scraping* (50+ dokumen)
-- [x] Representasi kasus dalam format CSV
-- [x] Implementasi retrieval berbasis TF-IDF dan *Cosine Similarity*
-- [x] Prediksi amar putusan dengan *Majority Vote*
-- [x] Evaluasi retrieval dengan *Precision@5* dan *ground truth* semi-otomatis
-- [ ] Integrasi model NLP berbasis Transformer (IndoBERT)
-- [ ] Menambahkan metrik evaluasi (*Recall@k*, *F1-Score*)
-- [ ] Pengembangan antarmuka web dengan Flask/Django
-- [ ] Implementasi tahap *Revise & Retain* untuk pembelajaran iteratif
+Proyek ini diorganisir dengan struktur sebagai berikut:
 
-Lihat [issues](https://github.com/your_username/repo_name/issues) untuk daftar fitur yang diusulkan dan masalah yang diketahui.
+```
+repo_name/
+├── data/
+│   ├── raw/                # Teks mentah (*.txt)
+│   ├── processed/          # Data terstruktur (cases.csv)
+│   └── eval/               # Ground truth & metrik
+│       ├── queries.json
+│       └── retrieval_metrics.csv
+├── notebooks/
+│   └── fix_notebook.ipynb  # Notebook utama berisi semua tahap CBR
+├── logs/
+│   └── cleaning.log        # Riwayat proses pembersihan data
+├── requirements.txt        # Daftar dependensi
+└── README.md
+```
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- CONTRIBUTING -->
+## Roadmap Proyek
+
+- [x] **Tahap 1: Case Base** - *Web scraping* dan pembersihan data (81 dokumen).
+- [x] **Tahap 2: Representasi** - Ekstraksi fitur dan penyimpanan ke CSV.
+- [x] **Tahap 3: Retrieval** - Implementasi 3 model (TF-IDF, SVM, IndoBERT).
+- [x] **Tahap 4: Reuse** - Prediksi amar putusan dengan *Majority Vote*.
+- [x] **Tahap 5: Evaluasi** - Pengukuran metrik dan analisis performa.
+- [x] **Tugas Opsional** - Analisis kegagalan dan pembuatan `cleaning.log`.
+- [ ] **Pengembangan Lanjutan**:
+    - [ ] Implementasi tahap *Revise & Retain*.
+    - [ ] Optimasi parameter model.
+    - [ ] Pengembangan antarmuka pengguna.
+
+Lihat [issues](https://github.com/username/repo_name/issues) untuk daftar fitur yang diusulkan.
+
+<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
+
 ## Kontribusi
 
-Kontribusi sangat dihargai untuk meningkatkan proyek ini. Jika Anda memiliki saran:
+Kontribusi sangat dihargai. Untuk berkontribusi:
 
-1. Fork repositori
-2. Buat branch fitur (`git checkout -b feature/FiturBaru`)
-3. Commit perubahan (`git commit -m 'Menambahkan FiturBaru'`)
-4. Push ke branch (`git push origin feature/FiturBaru`)
-5. Buka Pull Request
+1. Fork proyek.
+2. Buat branch fitur (`git checkout -b feature/FiturLuarBiasa`).
+3. Commit perubahan (`git commit -m 'Menambahkan FiturLuarBiasa'`).
+4. Push ke branch (`git push origin feature/FiturLuarBiasa`).
+5. Buka Pull Request.
 
-### Kontributor Utama
-- [Nama Mahasiswa 1]
-- [Nama Mahasiswa 2]
+### Tim Pengembang
+
+- **[Bayu Ardiyansyah]** - `[202210370311025]`
+- **[Lutfi Indra Nur Praditya]** - `[202210370311482]`
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- LICENSE -->
 ## Lisensi
 
-Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE.txt` untuk informasi lebih lanjut.
+Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE.txt` untuk informasi lebih lanjur.
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- CONTACT -->
 ## Kontak
 
-Fakultas Teknik Informatika, Universitas Muhammadiyah Malang  
-Email: [informatika@umm.ac.id](mailto:informatika@umm.ac.id)  
-Situs: [informatika.umm.ac.id](https://informatika.umm.ac.id)  
-Link Proyek: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+- Email: [Bayu Ardiyansyah](mailto:bayuardi30@outlook.com)
+
+Link Proyek: [https://github.com/RazerArdi/Case-Based-Reasoning-untuk-Putusan-Pidana-Militer](https://github.com/RazerArdi/Case-Based-Reasoning-untuk-Putusan-Pidana-Militer)
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
 ## Penghargaan
 
 - [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Shields.io](https://shields.io)
-- [Python Documentation](https://docs.python.org/3/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Template README by Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- [Dokumentasi Scikit-learn](https://scikit-learn.org/stable/)
+- [Shields.io](https://shields.io/)
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
