@@ -27,7 +27,7 @@ Sebuah sistem berbasis Python untuk menganalisis dan merekomendasikan putusan pe
 <summary>Daftar Isi</summary>
 <ol>
 <li><a href="#tentang-proyek">Tentang Proyek</a></li>
-<li><a href="#tabel-pemenuhan-parameter-uas">Tabel Pemenuhan Parameter UAS</a></li>
+<li><a href="#tabel-pemenuhan-parameter">Tabel Pemenuhan Parameter</a></li>
 <li><a href="#dibuat-dengan">Dibuat Dengan</a></li>
 <li><a href="#memulai">Memulai</a></li>
 <li><a href="#struktur-direktori">Struktur Direktori</a></li>
