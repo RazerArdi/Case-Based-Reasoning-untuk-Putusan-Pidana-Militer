@@ -6,11 +6,10 @@
 [][issues-url]
 [][license-url]
 
-<br />
 <div align="center">
-<a href="https://putusan3.mahkamahagung.go.id" title="Mahkamah Agung RI">
-<img src="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" alt="Logo Mahkamah Agung" width="220">
-</a>
+  <img src="https://putusan3.mahkamahagung.go.id/public/frontend/images/logo.png" alt="Logo Mahkamah Agung" width="220">
+</div>
+
 <h3 align="center">Sistem Case-Based Reasoning untuk Analisis Putusan Pidana Militer</h3>
 <p align="center">
 Sebuah sistem berbasis Python untuk menganalisis dan merekomendasikan putusan pengadilan pidana militer menggunakan pendekatan Case-Based Reasoning (CBR).
