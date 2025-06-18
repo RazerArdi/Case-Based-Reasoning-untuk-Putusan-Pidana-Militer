@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mil_case_035",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id putusan nomor 6-p/pm",
+    "id_kasus_ekspektasi": [
+      "mil_case_093",
+      "mil_case_058",
+      "mil_case_040",
+      "mil_case_035",
+      "mil_case_012"
+    ]
+  },
+  {
+    "id": "mil_case_001",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id putusan nomor 58-k/p",
+    "id_kasus_ekspektasi": [
+      "mil_case_051",
+      "mil_case_001",
+      "mil_case_078",
+      "mil_case_075",
+      "mil_case_011"
+    ]
+  },
+  {
+    "id": "mil_case_025",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id salinan putusan nomo",
+    "id_kasus_ekspektasi": [
+      "mil_case_062",
+      "mil_case_025",
+      "mil_case_075",
+      "mil_case_072",
+      "mil_case_048"
+    ]
+  },
+  {
+    "id": "mil_case_036",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id hal 1 dari 80 hal. p",
+    "id_kasus_ekspektasi": [
+      "mil_case_041",
+      "mil_case_036",
+      "mil_case_013",
+      "mil_case_011",
+      "mil_case_085"
+    ]
+  },
+  {
+    "id": "mil_case_021",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id hal 1 dari 26 hal pu",
+    "id_kasus_ekspektasi": [
+      "mil_case_021",
+      "mil_case_033",
+      "mil_case_009",
+      "mil_case_051",
+      "mil_case_049"
+    ]
+  },
+  {
+    "id": "mil_case_033",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id halaman 1 dari 26 ha",
+    "id_kasus_ekspektasi": [
+      "mil_case_021",
+      "mil_case_033",
+      "mil_case_009",
+      "mil_case_051",
+      "mil_case_049"
+    ]
+  },
+  {
+    "id": "mil_case_012",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id putusan nomor 4-p/pm",
+    "id_kasus_ekspektasi": [
+      "mil_case_093",
+      "mil_case_058",
+      "mil_case_040",
+      "mil_case_035",
+      "mil_case_012"
+    ]
+  },
+  {
+    "id": "mil_case_081",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id halaman 1 dari 51 ha",
+    "id_kasus_ekspektasi": [
+      "mil_case_081",
+      "mil_case_019",
+      "mil_case_084",
+      "mil_case_029",
+      "mil_case_059"
+    ]
+  },
+  {
+    "id": "mil_case_006",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id putusan nomor 18-k/p",
+    "id_kasus_ekspektasi": [
+      "mil_case_074",
+      "mil_case_037",
+      "mil_case_057",
+      "mil_case_006",
+      "mil_case_034"
+    ]
+  },
+  {
+    "id": "mil_case_014",
+    "kueri": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi putusan.mahkamahagung.go.id putusan nomor 60-k/p",
+    "id_kasus_ekspektasi": [
+      "mil_case_014",
+      "mil_case_007",
+      "mil_case_008",
+      "mil_case_013",
+      "mil_case_001"
+    ]
+  }
+]

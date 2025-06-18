@@ -1,0 +1,4 @@
+Model,MAP@5,Accuracy,Precision@5,Recall@5,F1@5
+TF-IDF (Uni+Bigram),1.0,1.0,1.0,1.0,1.0
+BERT,0.08,0.4,0.08,0.08,0.08000000000000002
+SVM,0.0,0.0,0.0,0.0,0.0
