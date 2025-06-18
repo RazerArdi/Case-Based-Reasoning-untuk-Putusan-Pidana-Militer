@@ -55,11 +55,11 @@ Proyek ini dikembangkan sebagai tugas Ujian Akhir Semester mata kuliah Penalaran
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-## Tabel Pemenuhan Parameter UAS
+## Tabel Pemenuhan Parameter
 
-Tabel berikut merangkum pemenuhan setiap parameter yang diwajibkan dalam dokumen UAS.
+Tabel berikut merangkum pemenuhan setiap parameter yang diwajibkan dalam dokumen.
 
-| Tahap / Parameter | Perintah UAS | Status Implementasi | Keterangan |
+| Tahap / Parameter | Perintah | Status Implementasi | Keterangan |
 |--------------------|--------------|---------------------|------------|
 | **Domain Kasus** | Pilih satu domain hukum spesifik. | ✅ **Terpenuhi** | Domain yang dipilih adalah **Pidana Militer**. |
 | **Volume Data** | Minimal 30 dokumen putusan. | ✅ **Terpenuhi** | Berhasil mengunduh dan memproses **81 dokumen**. |
