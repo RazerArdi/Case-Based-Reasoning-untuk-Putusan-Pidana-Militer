@@ -1,0 +1,467 @@
+2025-06-18 22:33:45 - INFO - --- MEMULAI SESI SCRAPING BARU ---
+2025-06-18 22:34:11 - INFO - Pengumpulan URL selesai. Ditemukan 100 URL unik.
+2025-06-18 22:34:11 - INFO - Memulai proses untuk mil_case_001 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c50e3b2139a90a6323133313134.html
+2025-06-18 22:34:22 - INFO - mil_case_001: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/d73a4c2cf8dc329da07a190aee777c24/pdf/zaf04c50e3b2139a90a6323133313134
+2025-06-18 22:34:22 - INFO - mil_case_001: SUCCESS - Text extracted from PDF. Total chars: 30200
+2025-06-18 22:34:22 - INFO - mil_case_001: SUCCESS - Text normalized.
+2025-06-18 22:34:22 - INFO - mil_case_001: Teks bersih berhasil disimpan ke ../data/raw/mil_case_001.txt.
+2025-06-18 22:34:22 - INFO - Memulai proses untuk mil_case_002 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0404745eb9f42a048313335323130.html
+2025-06-18 22:34:42 - INFO - mil_case_002: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/fe3c8016070b25f0b0f102c03813822e/pdf/zaf0404745eb9f42a048313335323130
+2025-06-18 22:34:42 - INFO - mil_case_002: SUCCESS - Text extracted from PDF. Total chars: 104661
+2025-06-18 22:34:42 - INFO - mil_case_002: SUCCESS - Text normalized.
+2025-06-18 22:34:42 - INFO - mil_case_002: Teks bersih berhasil disimpan ke ../data/raw/mil_case_002.txt.
+2025-06-18 22:34:42 - INFO - Memulai proses untuk mil_case_003 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c48e975f2228e6b323033343038.html
+2025-06-18 22:34:52 - INFO - mil_case_003: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/3968f4c85c098978a1d540f7f03d0c6d/pdf/zaf04c48e975f2228e6b323033343038
+2025-06-18 22:34:52 - INFO - mil_case_003: SUCCESS - Text extracted from PDF. Total chars: 86445
+2025-06-18 22:34:52 - INFO - mil_case_003: SUCCESS - Text normalized.
+2025-06-18 22:34:52 - INFO - mil_case_003: Teks bersih berhasil disimpan ke ../data/raw/mil_case_003.txt.
+2025-06-18 22:34:52 - INFO - Memulai proses untuk mil_case_004 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf046ddc8377f429e51323330343430.html
+2025-06-18 22:35:08 - INFO - mil_case_004: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/78f947b534672be6677cf95d9c8e858f/pdf/zaf046ddc8377f429e51323330343430
+2025-06-18 22:35:08 - INFO - mil_case_004: SUCCESS - Text extracted from PDF. Total chars: 157532
+2025-06-18 22:35:08 - INFO - mil_case_004: SUCCESS - Text normalized.
+2025-06-18 22:35:08 - INFO - mil_case_004: Teks bersih berhasil disimpan ke ../data/raw/mil_case_004.txt.
+2025-06-18 22:35:08 - INFO - Memulai proses untuk mil_case_005 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0483888c430d8be42313632363439.html
+2025-06-18 22:35:21 - INFO - mil_case_005: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/acd02bb06684217a97e8c17e1bd30f54/pdf/zaf0483888c430d8be42313632363439
+2025-06-18 22:35:21 - INFO - mil_case_005: SUCCESS - Text extracted from PDF. Total chars: 48121
+2025-06-18 22:35:21 - INFO - mil_case_005: SUCCESS - Text normalized.
+2025-06-18 22:35:21 - INFO - mil_case_005: Teks bersih berhasil disimpan ke ../data/raw/mil_case_005.txt.
+2025-06-18 22:35:21 - INFO - Memulai proses untuk mil_case_006 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f9771377e9cb991313635333332.html
+2025-06-18 22:35:32 - INFO - mil_case_006: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/7843b4a2f247f6e9d2e885a7312d7af1/pdf/zaf03f9771377e9cb991313635333332
+2025-06-18 22:35:32 - INFO - mil_case_006: SUCCESS - Text extracted from PDF. Total chars: 71444
+2025-06-18 22:35:32 - INFO - mil_case_006: SUCCESS - Text normalized.
+2025-06-18 22:35:32 - INFO - mil_case_006: Teks bersih berhasil disimpan ke ../data/raw/mil_case_006.txt.
+2025-06-18 22:35:32 - INFO - Memulai proses untuk mil_case_007 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0476f2fc615428cd6313632353331.html
+2025-06-18 22:35:44 - INFO - mil_case_007: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/42012e60018447c50800e0971784a448/pdf/zaf0476f2fc615428cd6313632353331
+2025-06-18 22:35:44 - INFO - mil_case_007: SUCCESS - Text extracted from PDF. Total chars: 7450
+2025-06-18 22:35:44 - INFO - mil_case_007: SUCCESS - Text normalized.
+2025-06-18 22:35:44 - INFO - mil_case_007: Teks bersih berhasil disimpan ke ../data/raw/mil_case_007.txt.
+2025-06-18 22:35:44 - INFO - Memulai proses untuk mil_case_008 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c2504e282569653313631373132.html
+2025-06-18 22:35:57 - INFO - mil_case_008: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/af66ce2191e110cb8e41da5d8f0cc7ae/pdf/zaf04c2504e282569653313631373132
+2025-06-18 22:35:57 - INFO - mil_case_008: SUCCESS - Text extracted from PDF. Total chars: 82897
+2025-06-18 22:35:57 - INFO - mil_case_008: SUCCESS - Text normalized.
+2025-06-18 22:35:57 - INFO - mil_case_008: Teks bersih berhasil disimpan ke ../data/raw/mil_case_008.txt.
+2025-06-18 22:35:57 - INFO - Memulai proses untuk mil_case_009 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04121561bcd3a8803313535333038.html
+2025-06-18 22:36:08 - INFO - mil_case_009: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/2962b1a34d30019b72e48c55f16f1687/pdf/zaf04121561bcd3a8803313535333038
+2025-06-18 22:36:08 - INFO - mil_case_009: SUCCESS - Text extracted from PDF. Total chars: 93929
+2025-06-18 22:36:08 - INFO - mil_case_009: SUCCESS - Text normalized.
+2025-06-18 22:36:08 - INFO - mil_case_009: Teks bersih berhasil disimpan ke ../data/raw/mil_case_009.txt.
+2025-06-18 22:36:08 - INFO - Memulai proses untuk mil_case_010 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0412089c9cc50a665313534373235.html
+2025-06-18 22:36:21 - INFO - mil_case_010: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/4467242b1a33e8eac13b6622a4172bfd/pdf/zaf0412089c9cc50a665313534373235
+2025-06-18 22:36:21 - INFO - mil_case_010: SUCCESS - Text extracted from PDF. Total chars: 71630
+2025-06-18 22:36:21 - INFO - mil_case_010: SUCCESS - Text normalized.
+2025-06-18 22:36:21 - INFO - mil_case_010: Teks bersih berhasil disimpan ke ../data/raw/mil_case_010.txt.
+2025-06-18 22:36:21 - INFO - Memulai proses untuk mil_case_011 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0476f317e3e82bc84313632353334.html
+2025-06-18 22:36:32 - INFO - mil_case_011: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/c27f087fac5741d8f6ea3c6a599365b9/pdf/zaf0476f317e3e82bc84313632353334
+2025-06-18 22:36:32 - INFO - mil_case_011: SUCCESS - Text extracted from PDF. Total chars: 280490
+2025-06-18 22:36:32 - INFO - mil_case_011: SUCCESS - Text normalized.
+2025-06-18 22:36:32 - INFO - mil_case_011: Teks bersih berhasil disimpan ke ../data/raw/mil_case_011.txt.
+2025-06-18 22:36:32 - INFO - Memulai proses untuk mil_case_012 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f944c2896669e61313633313031.html
+2025-06-18 22:36:45 - INFO - mil_case_012: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/f84ea649e368c77aa2bb06d9bfbcdd16/pdf/zaf03f944c2896669e61313633313031
+2025-06-18 22:36:45 - INFO - mil_case_012: SUCCESS - Text extracted from PDF. Total chars: 4986
+2025-06-18 22:36:45 - INFO - mil_case_012: SUCCESS - Text normalized.
+2025-06-18 22:36:45 - INFO - mil_case_012: Teks bersih berhasil disimpan ke ../data/raw/mil_case_012.txt.
+2025-06-18 22:36:45 - INFO - Memulai proses untuk mil_case_013 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/dba3efbe7cd04de13eccd365df254c6b.html
+2025-06-18 22:36:58 - INFO - mil_case_013: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/af15bf164d5ac594881b1eba5c9963b5/pdf/dba3efbe7cd04de13eccd365df254c6b
+2025-06-18 22:36:58 - INFO - mil_case_013: SUCCESS - Text extracted from PDF. Total chars: 536590
+2025-06-18 22:36:58 - INFO - mil_case_013: SUCCESS - Text normalized.
+2025-06-18 22:36:58 - INFO - mil_case_013: Teks bersih berhasil disimpan ke ../data/raw/mil_case_013.txt.
+2025-06-18 22:36:58 - INFO - Memulai proses untuk mil_case_014 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c50f623456c9175323133313435.html
+2025-06-18 22:37:15 - INFO - mil_case_014: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/a7a397b0f9f413ac0a965650f58dbf74/pdf/zaf04c50f623456c9175323133313435
+2025-06-18 22:37:15 - INFO - mil_case_014: SUCCESS - Text extracted from PDF. Total chars: 25241
+2025-06-18 22:37:15 - INFO - mil_case_014: SUCCESS - Text normalized.
+2025-06-18 22:37:15 - INFO - mil_case_014: Teks bersih berhasil disimpan ke ../data/raw/mil_case_014.txt.
+2025-06-18 22:37:15 - INFO - Memulai proses untuk mil_case_015 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c251f3f59ee8b01313631373537.html
+2025-06-18 22:37:26 - INFO - mil_case_015: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/52cfaab43f1d85efe2cf622ff996f31b/pdf/zaf04c251f3f59ee8b01313631373537
+2025-06-18 22:37:26 - INFO - mil_case_015: SUCCESS - Text extracted from PDF. Total chars: 95491
+2025-06-18 22:37:26 - INFO - mil_case_015: SUCCESS - Text normalized.
+2025-06-18 22:37:26 - INFO - mil_case_015: Teks bersih berhasil disimpan ke ../data/raw/mil_case_015.txt.
+2025-06-18 22:37:26 - INFO - Memulai proses untuk mil_case_016 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04122cf1195c0ac52313630333430.html
+2025-06-18 22:37:31 - ERROR - mil_case_016: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04122cf1195c0ac52313630333430.html
+2025-06-18 22:37:31 - INFO - Memulai proses untuk mil_case_017 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c381dc3187291df313833333534.html
+2025-06-18 22:37:45 - INFO - mil_case_017: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/6eae168c176a96c54a4bfbdb33f69690/pdf/zaf04c381dc3187291df313833333534
+2025-06-18 22:37:45 - INFO - mil_case_017: SUCCESS - Text extracted from PDF. Total chars: 64618
+2025-06-18 22:37:45 - INFO - mil_case_017: SUCCESS - Text normalized.
+2025-06-18 22:37:45 - INFO - mil_case_017: Teks bersih berhasil disimpan ke ../data/raw/mil_case_017.txt.
+2025-06-18 22:37:45 - INFO - Memulai proses untuk mil_case_018 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f768cbb12bcbc1c313235383034.html
+2025-06-18 22:38:08 - INFO - mil_case_018: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/fa0a4ba785dce479a56efecd6bf83ffa/pdf/zaf03f768cbb12bcbc1c313235383034
+2025-06-18 22:38:08 - INFO - mil_case_018: SUCCESS - Text extracted from PDF. Total chars: 53228
+2025-06-18 22:38:08 - INFO - mil_case_018: SUCCESS - Text normalized.
+2025-06-18 22:38:08 - INFO - mil_case_018: Teks bersih berhasil disimpan ke ../data/raw/mil_case_018.txt.
+2025-06-18 22:38:08 - INFO - Memulai proses untuk mil_case_019 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/11f0428abe47e8fc8791313130303131.html
+2025-06-18 22:38:20 - INFO - mil_case_019: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/11f0428abe49ce929bd4313130303131/pdf/11f0428abe47e8fc8791313130303131
+2025-06-18 22:38:20 - INFO - mil_case_019: SUCCESS - Text extracted from PDF. Total chars: 21862
+2025-06-18 22:38:20 - INFO - mil_case_019: SUCCESS - Text normalized.
+2025-06-18 22:38:20 - INFO - mil_case_019: Teks bersih berhasil disimpan ke ../data/raw/mil_case_019.txt.
+2025-06-18 22:38:20 - INFO - Memulai proses untuk mil_case_020 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04058047d1b42c0aa313535323032.html
+2025-06-18 22:38:30 - INFO - mil_case_020: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/4ea857dc8e5cf287948efa75d4d4ee2d/pdf/zaf04058047d1b42c0aa313535323032
+2025-06-18 22:38:30 - INFO - mil_case_020: SUCCESS - Text extracted from PDF. Total chars: 88682
+2025-06-18 22:38:30 - INFO - mil_case_020: SUCCESS - Text normalized.
+2025-06-18 22:38:30 - INFO - mil_case_020: Teks bersih berhasil disimpan ke ../data/raw/mil_case_020.txt.
+2025-06-18 22:38:30 - INFO - Memulai proses untuk mil_case_021 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0402e8a108d6888b4313035353037.html
+2025-06-18 22:38:44 - INFO - mil_case_021: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/3dc42e5d9d3e055222994746be305607/pdf/zaf0402e8a108d6888b4313035353037
+2025-06-18 22:38:44 - INFO - mil_case_021: SUCCESS - Text extracted from PDF. Total chars: 103059
+2025-06-18 22:38:44 - INFO - mil_case_021: SUCCESS - Text normalized.
+2025-06-18 22:38:44 - INFO - mil_case_021: Teks bersih berhasil disimpan ke ../data/raw/mil_case_021.txt.
+2025-06-18 22:38:44 - INFO - Memulai proses untuk mil_case_022 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b8ccfa418008447313332373231.html
+2025-06-18 22:39:07 - INFO - mil_case_022: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/58033583ec1b804fb6fa12595c410933/pdf/zaf03b8ccfa418008447313332373231
+2025-06-18 22:39:07 - INFO - mil_case_022: SUCCESS - Text extracted from PDF. Total chars: 72278
+2025-06-18 22:39:07 - INFO - mil_case_022: SUCCESS - Text normalized.
+2025-06-18 22:39:07 - INFO - mil_case_022: Teks bersih berhasil disimpan ke ../data/raw/mil_case_022.txt.
+2025-06-18 22:39:07 - INFO - Memulai proses untuk mil_case_023 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0411b426501eaa73e313530393338.html
+2025-06-18 22:39:23 - INFO - mil_case_023: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/91f22ce177f3ec3a5e8bacb37e0000a3/pdf/zaf0411b426501eaa73e313530393338
+2025-06-18 22:39:23 - INFO - mil_case_023: SUCCESS - Text extracted from PDF. Total chars: 72394
+2025-06-18 22:39:23 - INFO - mil_case_023: SUCCESS - Text normalized.
+2025-06-18 22:39:23 - INFO - mil_case_023: Teks bersih berhasil disimpan ke ../data/raw/mil_case_023.txt.
+2025-06-18 22:39:23 - INFO - Memulai proses untuk mil_case_024 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c2519f37ef2aa5a313631373438.html
+2025-06-18 22:39:31 - INFO - mil_case_024: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/f7f608b5b0e5bc4ba353f58ec0b8442e/pdf/zaf04c2519f37ef2aa5a313631373438
+2025-06-18 22:39:31 - INFO - mil_case_024: SUCCESS - Text extracted from PDF. Total chars: 5553
+2025-06-18 22:39:31 - INFO - mil_case_024: SUCCESS - Text normalized.
+2025-06-18 22:39:31 - INFO - mil_case_024: Teks bersih berhasil disimpan ke ../data/raw/mil_case_024.txt.
+2025-06-18 22:39:31 - INFO - Memulai proses untuk mil_case_025 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f943dc48fee8a82313633303337.html
+2025-06-18 22:39:47 - INFO - mil_case_025: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/47c1ea5c03941ade12308a93c44440e9/pdf/zaf03f943dc48fee8a82313633303337
+2025-06-18 22:39:47 - INFO - mil_case_025: SUCCESS - Text extracted from PDF. Total chars: 77579
+2025-06-18 22:39:47 - INFO - mil_case_025: SUCCESS - Text normalized.
+2025-06-18 22:39:47 - INFO - mil_case_025: Teks bersih berhasil disimpan ke ../data/raw/mil_case_025.txt.
+2025-06-18 22:39:47 - INFO - Memulai proses untuk mil_case_026 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04693ad7163a2a7d4313431343133.html
+2025-06-18 22:39:59 - INFO - mil_case_026: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/ab2d71f0a3805126a22c7b98dfdcc7bf/pdf/zaf04693ad7163a2a7d4313431343133
+2025-06-18 22:39:59 - INFO - mil_case_026: SUCCESS - Text extracted from PDF. Total chars: 81653
+2025-06-18 22:39:59 - INFO - mil_case_026: SUCCESS - Text normalized.
+2025-06-18 22:39:59 - INFO - mil_case_026: Teks bersih berhasil disimpan ke ../data/raw/mil_case_026.txt.
+2025-06-18 22:39:59 - INFO - Memulai proses untuk mil_case_027 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b8dedcfc7bab159313333353231.html
+2025-06-18 22:40:13 - INFO - mil_case_027: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/859069bcb31ff06815eaa8f7c8b07c7d/pdf/zaf03b8dedcfc7bab159313333353231
+2025-06-18 22:40:13 - INFO - mil_case_027: SUCCESS - Text extracted from PDF. Total chars: 419928
+2025-06-18 22:40:13 - INFO - mil_case_027: SUCCESS - Text normalized.
+2025-06-18 22:40:13 - INFO - mil_case_027: Teks bersih berhasil disimpan ke ../data/raw/mil_case_027.txt.
+2025-06-18 22:40:13 - INFO - Memulai proses untuk mil_case_028 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c48e7ac7bc88237323033343035.html
+2025-06-18 22:40:24 - INFO - mil_case_028: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/9e0cfd9eabbfba09445ce5d027eecd5c/pdf/zaf04c48e7ac7bc88237323033343035
+2025-06-18 22:40:24 - INFO - mil_case_028: SUCCESS - Text extracted from PDF. Total chars: 32190
+2025-06-18 22:40:24 - INFO - mil_case_028: SUCCESS - Text normalized.
+2025-06-18 22:40:24 - INFO - mil_case_028: Teks bersih berhasil disimpan ke ../data/raw/mil_case_028.txt.
+2025-06-18 22:40:24 - INFO - Memulai proses untuk mil_case_029 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b950cf233b0802b313432363230.html
+2025-06-18 22:40:40 - ERROR - mil_case_029: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b950cf233b0802b313432363230.html
+2025-06-18 22:40:40 - INFO - Memulai proses untuk mil_case_030 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04123823f41a6ba74313630383431.html
+2025-06-18 22:40:42 - ERROR - mil_case_030: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04123823f41a6ba74313630383431.html
+2025-06-18 22:40:42 - INFO - Memulai proses untuk mil_case_031 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c463690d03eb01c323031343439.html
+2025-06-18 22:41:01 - INFO - mil_case_031: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/008aa60d6bc4d0dd4d443e8bbc24844b/pdf/zaf04c463690d03eb01c323031343439
+2025-06-18 22:41:02 - INFO - mil_case_031: SUCCESS - Text extracted from PDF. Total chars: 23738
+2025-06-18 22:41:02 - INFO - mil_case_031: SUCCESS - Text normalized.
+2025-06-18 22:41:02 - INFO - mil_case_031: Teks bersih berhasil disimpan ke ../data/raw/mil_case_031.txt.
+2025-06-18 22:41:02 - INFO - Memulai proses untuk mil_case_032 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b8ab0dce8a496df313331323130.html
+2025-06-18 22:41:14 - INFO - mil_case_032: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/55b986805db49c23eb04438f7ce97841/pdf/zaf03b8ab0dce8a496df313331323130
+2025-06-18 22:41:14 - INFO - mil_case_032: SUCCESS - Text extracted from PDF. Total chars: 111433
+2025-06-18 22:41:14 - INFO - mil_case_032: SUCCESS - Text normalized.
+2025-06-18 22:41:14 - INFO - mil_case_032: Teks bersih berhasil disimpan ke ../data/raw/mil_case_032.txt.
+2025-06-18 22:41:14 - INFO - Memulai proses untuk mil_case_033 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04059e3b3704e8f2a313630353236.html
+2025-06-18 22:41:26 - INFO - mil_case_033: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/833b72dc99444dbf122e620fd0bd33e8/pdf/zaf04059e3b3704e8f2a313630353236
+2025-06-18 22:41:26 - INFO - mil_case_033: SUCCESS - Text extracted from PDF. Total chars: 82791
+2025-06-18 22:41:26 - INFO - mil_case_033: SUCCESS - Text normalized.
+2025-06-18 22:41:26 - INFO - mil_case_033: Teks bersih berhasil disimpan ke ../data/raw/mil_case_033.txt.
+2025-06-18 22:41:26 - INFO - Memulai proses untuk mil_case_034 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f944517dc56b473313633303439.html
+2025-06-18 22:41:37 - INFO - mil_case_034: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/f9a08e76790bdaed9879cadbfce4fe64/pdf/zaf03f944517dc56b473313633303439
+2025-06-18 22:41:37 - INFO - mil_case_034: SUCCESS - Text extracted from PDF. Total chars: 179859
+2025-06-18 22:41:37 - INFO - mil_case_034: SUCCESS - Text normalized.
+2025-06-18 22:41:37 - INFO - mil_case_034: Teks bersih berhasil disimpan ke ../data/raw/mil_case_034.txt.
+2025-06-18 22:41:37 - INFO - Memulai proses untuk mil_case_035 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041172ec31cd4b4c6313434303237.html
+2025-06-18 22:41:54 - INFO - mil_case_035: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/affb846553ab686a9de0d6f5c87aaa00/pdf/zaf041172ec31cd4b4c6313434303237
+2025-06-18 22:41:54 - INFO - mil_case_035: SUCCESS - Text extracted from PDF. Total chars: 145175
+2025-06-18 22:41:54 - INFO - mil_case_035: SUCCESS - Text normalized.
+2025-06-18 22:41:54 - INFO - mil_case_035: Teks bersih berhasil disimpan ke ../data/raw/mil_case_035.txt.
+2025-06-18 22:41:54 - INFO - Memulai proses untuk mil_case_036 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9958a9b8c49d4a313435373035.html
+2025-06-18 22:41:56 - ERROR - mil_case_036: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9958a9b8c49d4a313435373035.html
+2025-06-18 22:41:56 - INFO - Memulai proses untuk mil_case_037 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf040557d8db4e09304313533333537.html
+2025-06-18 22:42:20 - INFO - mil_case_037: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/ca303d0b3e48b507847ac9c8827dfc7c/pdf/zaf040557d8db4e09304313533333537
+2025-06-18 22:42:20 - INFO - mil_case_037: SUCCESS - Text extracted from PDF. Total chars: 41349
+2025-06-18 22:42:20 - INFO - mil_case_037: SUCCESS - Text normalized.
+2025-06-18 22:42:20 - INFO - mil_case_037: Teks bersih berhasil disimpan ke ../data/raw/mil_case_037.txt.
+2025-06-18 22:42:20 - INFO - Memulai proses untuk mil_case_038 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0402e8e28b2a4b0cd313035353134.html
+2025-06-18 22:42:29 - INFO - mil_case_038: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/3aa8014eeed13e5fa3a485fe704db184/pdf/zaf0402e8e28b2a4b0cd313035353134
+2025-06-18 22:42:30 - INFO - mil_case_038: SUCCESS - Text extracted from PDF. Total chars: 92711
+2025-06-18 22:42:30 - INFO - mil_case_038: SUCCESS - Text normalized.
+2025-06-18 22:42:30 - INFO - mil_case_038: Teks bersih berhasil disimpan ke ../data/raw/mil_case_038.txt.
+2025-06-18 22:42:30 - INFO - Memulai proses untuk mil_case_039 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f70c8a41fb8afaf313231363438.html
+2025-06-18 22:42:40 - INFO - mil_case_039: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/c4d4611fd967936a04f40a1056c5a8e0/pdf/zaf03f70c8a41fb8afaf313231363438
+2025-06-18 22:42:40 - INFO - mil_case_039: SUCCESS - Text extracted from PDF. Total chars: 104265
+2025-06-18 22:42:40 - INFO - mil_case_039: SUCCESS - Text normalized.
+2025-06-18 22:42:40 - INFO - mil_case_039: Teks bersih berhasil disimpan ke ../data/raw/mil_case_039.txt.
+2025-06-18 22:42:40 - INFO - Memulai proses untuk mil_case_040 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c250b4686d88593313631373233.html
+2025-06-18 22:42:56 - INFO - mil_case_040: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/173727120f0cadc833f516445b5443ec/pdf/zaf04c250b4686d88593313631373233
+2025-06-18 22:42:56 - INFO - mil_case_040: SUCCESS - Text extracted from PDF. Total chars: 4520
+2025-06-18 22:42:56 - INFO - mil_case_040: SUCCESS - Text normalized.
+2025-06-18 22:42:56 - INFO - mil_case_040: Teks bersih berhasil disimpan ke ../data/raw/mil_case_040.txt.
+2025-06-18 22:42:56 - INFO - Memulai proses untuk mil_case_041 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9ba987cc528e64313531333339.html
+2025-06-18 22:43:08 - INFO - mil_case_041: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/9acae36d418487270cece9b86aec9a12/pdf/zaf03b9ba987cc528e64313531333339
+2025-06-18 22:43:08 - INFO - mil_case_041: SUCCESS - Text extracted from PDF. Total chars: 310121
+2025-06-18 22:43:08 - INFO - mil_case_041: SUCCESS - Text normalized.
+2025-06-18 22:43:08 - INFO - mil_case_041: Teks bersih berhasil disimpan ke ../data/raw/mil_case_041.txt.
+2025-06-18 22:43:08 - INFO - Memulai proses untuk mil_case_042 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f70cc2407668ade313231363534.html
+2025-06-18 22:43:17 - INFO - mil_case_042: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/322e2a9af956acef4f28846d481bb23d/pdf/zaf03f70cc2407668ade313231363534
+2025-06-18 22:43:17 - INFO - mil_case_042: SUCCESS - Text extracted from PDF. Total chars: 85253
+2025-06-18 22:43:17 - INFO - mil_case_042: SUCCESS - Text normalized.
+2025-06-18 22:43:17 - INFO - mil_case_042: Teks bersih berhasil disimpan ke ../data/raw/mil_case_042.txt.
+2025-06-18 22:43:17 - INFO - Memulai proses untuk mil_case_043 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/11f0428abf1bc8d48e8e313130303132.html
+2025-06-18 22:43:32 - INFO - mil_case_043: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/11f0428abf1d6784b59a313130303132/pdf/11f0428abf1bc8d48e8e313130303132
+2025-06-18 22:43:32 - INFO - mil_case_043: SUCCESS - Text extracted from PDF. Total chars: 23802
+2025-06-18 22:43:32 - INFO - mil_case_043: SUCCESS - Text normalized.
+2025-06-18 22:43:32 - INFO - mil_case_043: Teks bersih berhasil disimpan ke ../data/raw/mil_case_043.txt.
+2025-06-18 22:43:32 - INFO - Memulai proses untuk mil_case_044 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0476f332807ea9731313632353337.html
+2025-06-18 22:43:45 - INFO - mil_case_044: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/d1cbf999558baec2847aad3d60ee5c57/pdf/zaf0476f332807ea9731313632353337
+2025-06-18 22:43:45 - INFO - mil_case_044: SUCCESS - Text extracted from PDF. Total chars: 179813
+2025-06-18 22:43:45 - INFO - mil_case_044: SUCCESS - Text normalized.
+2025-06-18 22:43:45 - INFO - mil_case_044: Teks bersih berhasil disimpan ke ../data/raw/mil_case_044.txt.
+2025-06-18 22:43:45 - INFO - Memulai proses untuk mil_case_045 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c250e36e554b368313631373238.html
+2025-06-18 22:43:55 - INFO - mil_case_045: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/9892327b0ca9cb86d477f3470c247bd7/pdf/zaf04c250e36e554b368313631373238
+2025-06-18 22:43:55 - INFO - mil_case_045: SUCCESS - Text extracted from PDF. Total chars: 4457
+2025-06-18 22:43:55 - INFO - mil_case_045: SUCCESS - Text normalized.
+2025-06-18 22:43:55 - INFO - mil_case_045: Teks bersih berhasil disimpan ke ../data/raw/mil_case_045.txt.
+2025-06-18 22:43:55 - INFO - Memulai proses untuk mil_case_046 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/11f04c099784d77ea567313330303532.html
+2025-06-18 22:44:07 - INFO - mil_case_046: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/11f04c099786e244ad4c313330303532/pdf/11f04c099784d77ea567313330303532
+2025-06-18 22:44:07 - INFO - mil_case_046: SUCCESS - Text extracted from PDF. Total chars: 33934
+2025-06-18 22:44:07 - INFO - mil_case_046: SUCCESS - Text normalized.
+2025-06-18 22:44:07 - INFO - mil_case_046: Teks bersih berhasil disimpan ke ../data/raw/mil_case_046.txt.
+2025-06-18 22:44:07 - INFO - Memulai proses untuk mil_case_047 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/11f0428ab8a0bbd68831313130303031.html
+2025-06-18 22:44:19 - INFO - mil_case_047: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/11f0428ab8a248deab20313130303031/pdf/11f0428ab8a0bbd68831313130303031
+2025-06-18 22:44:19 - INFO - mil_case_047: SUCCESS - Text extracted from PDF. Total chars: 24299
+2025-06-18 22:44:19 - INFO - mil_case_047: SUCCESS - Text normalized.
+2025-06-18 22:44:19 - INFO - mil_case_047: Teks bersih berhasil disimpan ke ../data/raw/mil_case_047.txt.
+2025-06-18 22:44:19 - INFO - Memulai proses untuk mil_case_048 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/11f04c0985146082a115313330303231.html
+2025-06-18 22:44:36 - INFO - mil_case_048: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/11f04c0985165e1ebc39313330303231/pdf/11f04c0985146082a115313330303231
+2025-06-18 22:44:36 - INFO - mil_case_048: SUCCESS - Text extracted from PDF. Total chars: 22924
+2025-06-18 22:44:36 - INFO - mil_case_048: SUCCESS - Text normalized.
+2025-06-18 22:44:36 - INFO - mil_case_048: Teks bersih berhasil disimpan ke ../data/raw/mil_case_048.txt.
+2025-06-18 22:44:36 - INFO - Memulai proses untuk mil_case_049 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c464b92495eac02323031353234.html
+2025-06-18 22:44:45 - INFO - mil_case_049: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/896940fd0317459efd99ebd57af397e1/pdf/zaf04c464b92495eac02323031353234
+2025-06-18 22:44:45 - INFO - mil_case_049: SUCCESS - Text extracted from PDF. Total chars: 25920
+2025-06-18 22:44:45 - INFO - mil_case_049: SUCCESS - Text normalized.
+2025-06-18 22:44:45 - INFO - mil_case_049: Teks bersih berhasil disimpan ke ../data/raw/mil_case_049.txt.
+2025-06-18 22:44:45 - INFO - Memulai proses untuk mil_case_050 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041220f30ceb0bf4e313535383138.html
+2025-06-18 22:44:57 - INFO - mil_case_050: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/54585a3cf15dfd1c88c6a18d298df34c/pdf/zaf041220f30ceb0bf4e313535383138
+2025-06-18 22:44:57 - INFO - mil_case_050: SUCCESS - Text extracted from PDF. Total chars: 80057
+2025-06-18 22:44:57 - INFO - mil_case_050: SUCCESS - Text normalized.
+2025-06-18 22:44:57 - INFO - mil_case_050: Teks bersih berhasil disimpan ke ../data/raw/mil_case_050.txt.
+2025-06-18 22:44:57 - INFO - Memulai proses untuk mil_case_051 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9a1c08c148ae93313530323332.html
+2025-06-18 22:45:02 - ERROR - mil_case_051: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9a1c08c148ae93313530323332.html
+2025-06-18 22:45:02 - INFO - Memulai proses untuk mil_case_052 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c3818d5b1c6bccb313833333436.html
+2025-06-18 22:45:16 - INFO - mil_case_052: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/f7fa36a577cebec914307b83be6c35db/pdf/zaf04c3818d5b1c6bccb313833333436
+2025-06-18 22:45:16 - INFO - mil_case_052: SUCCESS - Text extracted from PDF. Total chars: 31519
+2025-06-18 22:45:16 - INFO - mil_case_052: SUCCESS - Text normalized.
+2025-06-18 22:45:16 - INFO - mil_case_052: Teks bersih berhasil disimpan ke ../data/raw/mil_case_052.txt.
+2025-06-18 22:45:16 - INFO - Memulai proses untuk mil_case_053 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0404de443eb8aa999313433393333.html
+2025-06-18 22:45:29 - INFO - mil_case_053: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/6be5c26984e00743361c0c498da1f7c1/pdf/zaf0404de443eb8aa999313433393333
+2025-06-18 22:45:29 - INFO - mil_case_053: SUCCESS - Text extracted from PDF. Total chars: 91667
+2025-06-18 22:45:29 - INFO - mil_case_053: SUCCESS - Text normalized.
+2025-06-18 22:45:29 - INFO - mil_case_053: Teks bersih berhasil disimpan ke ../data/raw/mil_case_053.txt.
+2025-06-18 22:45:29 - INFO - Memulai proses untuk mil_case_054 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b7defe84c08ad9d313134303533.html
+2025-06-18 22:45:42 - INFO - mil_case_054: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/10f5d8614684c8bec67e033a8e587930/pdf/zaf03b7defe84c08ad9d313134303533
+2025-06-18 22:45:42 - INFO - mil_case_054: SUCCESS - Text extracted from PDF. Total chars: 68412
+2025-06-18 22:45:42 - INFO - mil_case_054: SUCCESS - Text normalized.
+2025-06-18 22:45:42 - INFO - mil_case_054: Teks bersih berhasil disimpan ke ../data/raw/mil_case_054.txt.
+2025-06-18 22:45:42 - INFO - Memulai proses untuk mil_case_055 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0402e9111cfc88a69313035353139.html
+2025-06-18 22:45:51 - INFO - mil_case_055: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/e6ef8cb31521207269f48102c3e7a460/pdf/zaf0402e9111cfc88a69313035353139
+2025-06-18 22:45:51 - INFO - mil_case_055: SUCCESS - Text extracted from PDF. Total chars: 95984
+2025-06-18 22:45:51 - INFO - mil_case_055: SUCCESS - Text normalized.
+2025-06-18 22:45:51 - INFO - mil_case_055: Teks bersih berhasil disimpan ke ../data/raw/mil_case_055.txt.
+2025-06-18 22:45:51 - INFO - Memulai proses untuk mil_case_056 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0405651b2454c9081313533393533.html
+2025-06-18 22:46:04 - INFO - mil_case_056: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/1bb0a9bc595008e1deb443b804bb8920/pdf/zaf0405651b2454c9081313533393533
+2025-06-18 22:46:04 - INFO - mil_case_056: SUCCESS - Text extracted from PDF. Total chars: 73544
+2025-06-18 22:46:04 - INFO - mil_case_056: SUCCESS - Text normalized.
+2025-06-18 22:46:04 - INFO - mil_case_056: Teks bersih berhasil disimpan ke ../data/raw/mil_case_056.txt.
+2025-06-18 22:46:04 - INFO - Memulai proses untuk mil_case_057 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f977f70d3beb80b313635333535.html
+2025-06-18 22:46:19 - INFO - mil_case_057: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/cec1ef7e57ccba5bb19e327c93c39a24/pdf/zaf03f977f70d3beb80b313635333535
+2025-06-18 22:46:19 - INFO - mil_case_057: SUCCESS - Text extracted from PDF. Total chars: 73820
+2025-06-18 22:46:19 - INFO - mil_case_057: SUCCESS - Text normalized.
+2025-06-18 22:46:19 - INFO - mil_case_057: Teks bersih berhasil disimpan ke ../data/raw/mil_case_057.txt.
+2025-06-18 22:46:19 - INFO - Memulai proses untuk mil_case_058 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041183cf71a66aac8313434383030.html
+2025-06-18 22:46:37 - INFO - mil_case_058: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/a126a373a9e6ab93e1e921655461db31/pdf/zaf041183cf71a66aac8313434383030
+2025-06-18 22:46:37 - INFO - mil_case_058: SUCCESS - Text extracted from PDF. Total chars: 128417
+2025-06-18 22:46:37 - INFO - mil_case_058: SUCCESS - Text normalized.
+2025-06-18 22:46:37 - INFO - mil_case_058: Teks bersih berhasil disimpan ke ../data/raw/mil_case_058.txt.
+2025-06-18 22:46:37 - INFO - Memulai proses untuk mil_case_059 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b7df5b71d448eef313134313032.html
+2025-06-18 22:46:47 - INFO - mil_case_059: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/02e91c6546624dbd58d3de191a055a61/pdf/zaf03b7df5b71d448eef313134313032
+2025-06-18 22:46:47 - INFO - mil_case_059: SUCCESS - Text extracted from PDF. Total chars: 73035
+2025-06-18 22:46:47 - INFO - mil_case_059: SUCCESS - Text normalized.
+2025-06-18 22:46:47 - INFO - mil_case_059: Teks bersih berhasil disimpan ke ../data/raw/mil_case_059.txt.
+2025-06-18 22:46:47 - INFO - Memulai proses untuk mil_case_060 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f977e4c8924aaef313635333534.html
+2025-06-18 22:46:59 - INFO - mil_case_060: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/ac119e9cd22c72c06bc6d1ca2b25e322/pdf/zaf03f977e4c8924aaef313635333534
+2025-06-18 22:46:59 - INFO - mil_case_060: SUCCESS - Text extracted from PDF. Total chars: 77878
+2025-06-18 22:46:59 - INFO - mil_case_060: SUCCESS - Text normalized.
+2025-06-18 22:46:59 - INFO - mil_case_060: Teks bersih berhasil disimpan ke ../data/raw/mil_case_060.txt.
+2025-06-18 22:46:59 - INFO - Memulai proses untuk mil_case_061 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0405194a5f45c9ea7313530353537.html
+2025-06-18 22:47:14 - INFO - mil_case_061: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/dcbb6e96523178454ccc72796d1c8ec9/pdf/zaf0405194a5f45c9ea7313530353537
+2025-06-18 22:47:14 - INFO - mil_case_061: SUCCESS - Text extracted from PDF. Total chars: 193498
+2025-06-18 22:47:14 - INFO - mil_case_061: SUCCESS - Text normalized.
+2025-06-18 22:47:14 - INFO - mil_case_061: Teks bersih berhasil disimpan ke ../data/raw/mil_case_061.txt.
+2025-06-18 22:47:14 - INFO - Memulai proses untuk mil_case_062 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf045ea4915f49ea548313830313339.html
+2025-06-18 22:47:16 - ERROR - mil_case_062: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf045ea4915f49ea548313830313339.html
+2025-06-18 22:47:16 - INFO - Memulai proses untuk mil_case_063 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c462a2179168abf323031343238.html
+2025-06-18 22:47:34 - INFO - mil_case_063: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/74d8749f37b1f49dd74ae14da6c3f6db/pdf/zaf04c462a2179168abf323031343238
+2025-06-18 22:47:34 - INFO - mil_case_063: SUCCESS - Text extracted from PDF. Total chars: 2919
+2025-06-18 22:47:34 - INFO - mil_case_063: SUCCESS - Text normalized.
+2025-06-18 22:47:34 - INFO - mil_case_063: Teks bersih berhasil disimpan ke ../data/raw/mil_case_063.txt.
+2025-06-18 22:47:34 - INFO - Memulai proses untuk mil_case_064 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0405191decbfec0cf313530353533.html
+2025-06-18 22:47:47 - INFO - mil_case_064: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/d43b2d0a41efc1199e0e88cb282efc50/pdf/zaf0405191decbfec0cf313530353533
+2025-06-18 22:47:47 - INFO - mil_case_064: SUCCESS - Text extracted from PDF. Total chars: 4614
+2025-06-18 22:47:47 - INFO - mil_case_064: SUCCESS - Text normalized.
+2025-06-18 22:47:47 - INFO - mil_case_064: Teks bersih berhasil disimpan ke ../data/raw/mil_case_064.txt.
+2025-06-18 22:47:47 - INFO - Memulai proses untuk mil_case_065 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c50f08a5d3ebe38323133313336.html
+2025-06-18 22:48:03 - INFO - mil_case_065: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/dcdb862f6a17f427d7987fcaf0dd8d03/pdf/zaf04c50f08a5d3ebe38323133313336
+2025-06-18 22:48:03 - INFO - mil_case_065: SUCCESS - Text extracted from PDF. Total chars: 27847
+2025-06-18 22:48:03 - INFO - mil_case_065: SUCCESS - Text normalized.
+2025-06-18 22:48:03 - INFO - mil_case_065: Teks bersih berhasil disimpan ke ../data/raw/mil_case_065.txt.
+2025-06-18 22:48:03 - INFO - Memulai proses untuk mil_case_066 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf040571ef525388b62313534353337.html
+2025-06-18 22:48:15 - INFO - mil_case_066: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/ddeeadf1b10abf1c531f24df9beff26f/pdf/zaf040571ef525388b62313534353337
+2025-06-18 22:48:15 - INFO - mil_case_066: SUCCESS - Text extracted from PDF. Total chars: 92872
+2025-06-18 22:48:15 - INFO - mil_case_066: SUCCESS - Text normalized.
+2025-06-18 22:48:15 - INFO - mil_case_066: Teks bersih berhasil disimpan ke ../data/raw/mil_case_066.txt.
+2025-06-18 22:48:15 - INFO - Memulai proses untuk mil_case_067 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0402e8c5ead208161313035353131.html
+2025-06-18 22:48:30 - INFO - mil_case_067: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/e4f63ebf75b9c6836e0e68090f399e8e/pdf/zaf0402e8c5ead208161313035353131
+2025-06-18 22:48:31 - INFO - mil_case_067: SUCCESS - Text extracted from PDF. Total chars: 90284
+2025-06-18 22:48:31 - INFO - mil_case_067: SUCCESS - Text normalized.
+2025-06-18 22:48:31 - INFO - mil_case_067: Teks bersih berhasil disimpan ke ../data/raw/mil_case_067.txt.
+2025-06-18 22:48:31 - INFO - Memulai proses untuk mil_case_068 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f9762b9910cae50313635333037.html
+2025-06-18 22:48:40 - INFO - mil_case_068: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/616ce018892c8bfa33bee1203fecb039/pdf/zaf03f9762b9910cae50313635333037
+2025-06-18 22:48:40 - INFO - mil_case_068: SUCCESS - Text extracted from PDF. Total chars: 86855
+2025-06-18 22:48:40 - INFO - mil_case_068: SUCCESS - Text normalized.
+2025-06-18 22:48:40 - INFO - mil_case_068: Teks bersih berhasil disimpan ke ../data/raw/mil_case_068.txt.
+2025-06-18 22:48:40 - INFO - Memulai proses untuk mil_case_069 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c48e63064d0c025323033343033.html
+2025-06-18 22:48:53 - INFO - mil_case_069: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/0dd8c0b645fcf406ed7b0aa945586769/pdf/zaf04c48e63064d0c025323033343033
+2025-06-18 22:48:53 - INFO - mil_case_069: SUCCESS - Text extracted from PDF. Total chars: 41240
+2025-06-18 22:48:53 - INFO - mil_case_069: SUCCESS - Text normalized.
+2025-06-18 22:48:53 - INFO - mil_case_069: Teks bersih berhasil disimpan ke ../data/raw/mil_case_069.txt.
+2025-06-18 22:48:53 - INFO - Memulai proses untuk mil_case_070 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b98480f3832a95d313434393237.html
+2025-06-18 22:49:04 - ERROR - mil_case_070: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b98480f3832a95d313434393237.html
+2025-06-18 22:49:04 - INFO - Memulai proses untuk mil_case_071 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0468bedc44846a726313331383435.html
+2025-06-18 22:49:12 - INFO - mil_case_071: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/003bce03948e970f6faeffade657a484/pdf/zaf0468bedc44846a726313331383435
+2025-06-18 22:49:12 - INFO - mil_case_071: SUCCESS - Text extracted from PDF. Total chars: 43497
+2025-06-18 22:49:12 - INFO - mil_case_071: SUCCESS - Text normalized.
+2025-06-18 22:49:12 - INFO - mil_case_071: Teks bersih berhasil disimpan ke ../data/raw/mil_case_071.txt.
+2025-06-18 22:49:12 - INFO - Memulai proses untuk mil_case_072 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf046ddc0a70df69c72323330343238.html
+2025-06-18 22:49:28 - INFO - mil_case_072: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/2740455a64205cf97e47f873e40744d1/pdf/zaf046ddc0a70df69c72323330343238
+2025-06-18 22:49:28 - INFO - mil_case_072: SUCCESS - Text extracted from PDF. Total chars: 127324
+2025-06-18 22:49:28 - INFO - mil_case_072: SUCCESS - Text normalized.
+2025-06-18 22:49:28 - INFO - mil_case_072: Teks bersih berhasil disimpan ke ../data/raw/mil_case_072.txt.
+2025-06-18 22:49:28 - INFO - Memulai proses untuk mil_case_073 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0411aa77b855a8a2d313530353138.html
+2025-06-18 22:49:38 - INFO - mil_case_073: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/0d71b59d7182c3a672dabbc8945d4d14/pdf/zaf0411aa77b855a8a2d313530353138
+2025-06-18 22:49:38 - INFO - mil_case_073: SUCCESS - Text extracted from PDF. Total chars: 7608
+2025-06-18 22:49:38 - INFO - mil_case_073: SUCCESS - Text normalized.
+2025-06-18 22:49:38 - INFO - mil_case_073: Teks bersih berhasil disimpan ke ../data/raw/mil_case_073.txt.
+2025-06-18 22:49:38 - INFO - Memulai proses untuk mil_case_074 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f943f224dc2b9e4313633303339.html
+2025-06-18 22:49:55 - INFO - mil_case_074: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/1ad827b3deff7b0aef6d0e65678912b8/pdf/zaf03f943f224dc2b9e4313633303339
+2025-06-18 22:49:55 - INFO - mil_case_074: SUCCESS - Text extracted from PDF. Total chars: 80489
+2025-06-18 22:49:55 - INFO - mil_case_074: SUCCESS - Text normalized.
+2025-06-18 22:49:55 - INFO - mil_case_074: Teks bersih berhasil disimpan ke ../data/raw/mil_case_074.txt.
+2025-06-18 22:49:55 - INFO - Memulai proses untuk mil_case_075 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04801eee16ae8963d303935353538.html
+2025-06-18 22:50:06 - INFO - mil_case_075: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/bc222c20ddd30811c8e0fc9fa682f8c1/pdf/zaf04801eee16ae8963d303935353538
+2025-06-18 22:50:06 - INFO - mil_case_075: SUCCESS - Text extracted from PDF. Total chars: 105141
+2025-06-18 22:50:06 - INFO - mil_case_075: SUCCESS - Text normalized.
+2025-06-18 22:50:06 - INFO - mil_case_075: Teks bersih berhasil disimpan ke ../data/raw/mil_case_075.txt.
+2025-06-18 22:50:06 - INFO - Memulai proses untuk mil_case_076 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf040519a4a5286b8df313530363037.html
+2025-06-18 22:50:21 - INFO - mil_case_076: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/8e649bdf667b9a92715c9046ce7bbaef/pdf/zaf040519a4a5286b8df313530363037
+2025-06-18 22:50:21 - INFO - mil_case_076: SUCCESS - Text extracted from PDF. Total chars: 99464
+2025-06-18 22:50:21 - INFO - mil_case_076: SUCCESS - Text normalized.
+2025-06-18 22:50:21 - INFO - mil_case_076: Teks bersih berhasil disimpan ke ../data/raw/mil_case_076.txt.
+2025-06-18 22:50:21 - INFO - Memulai proses untuk mil_case_077 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b96c7bc1110b485313433383433.html
+2025-06-18 22:50:23 - ERROR - mil_case_077: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b96c7bc1110b485313433383433.html
+2025-06-18 22:50:23 - INFO - Memulai proses untuk mil_case_078 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0411eccfe40fc94fe313533343539.html
+2025-06-18 22:50:38 - INFO - mil_case_078: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/b01d74000d80f591e25344db3b52b7da/pdf/zaf0411eccfe40fc94fe313533343539
+2025-06-18 22:50:38 - INFO - mil_case_078: SUCCESS - Text extracted from PDF. Total chars: 304505
+2025-06-18 22:50:38 - INFO - mil_case_078: SUCCESS - Text normalized.
+2025-06-18 22:50:38 - INFO - mil_case_078: Teks bersih berhasil disimpan ke ../data/raw/mil_case_078.txt.
+2025-06-18 22:50:38 - INFO - Memulai proses untuk mil_case_079 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf04c3819d8a588ac32313833333438.html
+2025-06-18 22:51:23 - INFO - mil_case_079: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/c5b307f78a75a26b0a26f96e0c230fe1/pdf/zaf04c3819d8a588ac32313833333438
+2025-06-18 22:51:23 - INFO - mil_case_079: SUCCESS - Text extracted from PDF. Total chars: 31660
+2025-06-18 22:51:23 - INFO - mil_case_079: SUCCESS - Text normalized.
+2025-06-18 22:51:23 - INFO - mil_case_079: Teks bersih berhasil disimpan ke ../data/raw/mil_case_079.txt.
+2025-06-18 22:51:23 - INFO - Memulai proses untuk mil_case_080 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0402e8fe70bd6aedd313035353137.html
+2025-06-18 22:51:36 - INFO - mil_case_080: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/ac4abb00219ec2e38681d6d3e1489bdf/pdf/zaf0402e8fe70bd6aedd313035353137
+2025-06-18 22:51:36 - INFO - mil_case_080: SUCCESS - Text extracted from PDF. Total chars: 86337
+2025-06-18 22:51:36 - INFO - mil_case_080: SUCCESS - Text normalized.
+2025-06-18 22:51:36 - INFO - mil_case_080: Teks bersih berhasil disimpan ke ../data/raw/mil_case_080.txt.
+2025-06-18 22:51:36 - INFO - Memulai proses untuk mil_case_081 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0476f2cd03fde81bc313632353236.html
+2025-06-18 22:51:49 - INFO - mil_case_081: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/cd445daa729ce5953aa0a7808c6e8cec/pdf/zaf0476f2cd03fde81bc313632353236
+2025-06-18 22:51:49 - INFO - mil_case_081: SUCCESS - Text extracted from PDF. Total chars: 98921
+2025-06-18 22:51:49 - INFO - mil_case_081: SUCCESS - Text normalized.
+2025-06-18 22:51:49 - INFO - mil_case_081: Teks bersih berhasil disimpan ke ../data/raw/mil_case_081.txt.
+2025-06-18 22:51:49 - INFO - Memulai proses untuk mil_case_082 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f9439b52c60a874313633303330.html
+2025-06-18 22:52:01 - INFO - mil_case_082: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/00f042306d5b7790e21cd094e3ce0034/pdf/zaf03f9439b52c60a874313633303330
+2025-06-18 22:52:02 - INFO - mil_case_082: SUCCESS - Text extracted from PDF. Total chars: 81971
+2025-06-18 22:52:02 - INFO - mil_case_082: SUCCESS - Text normalized.
+2025-06-18 22:52:02 - INFO - mil_case_082: Teks bersih berhasil disimpan ke ../data/raw/mil_case_082.txt.
+2025-06-18 22:52:02 - INFO - Memulai proses untuk mil_case_083 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b97acd46f4a9048313434353037.html
+2025-06-18 22:52:10 - ERROR - mil_case_083: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b97acd46f4a9048313434353037.html
+2025-06-18 22:52:10 - INFO - Memulai proses untuk mil_case_084 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b8c3475ac9abaff313332333031.html
+2025-06-18 22:52:46 - INFO - mil_case_084: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/3e56f607ef0d49a6859caa7f3e52552e/pdf/zaf03b8c3475ac9abaff313332333031
+2025-06-18 22:52:46 - INFO - mil_case_084: SUCCESS - Text extracted from PDF. Total chars: 151222
+2025-06-18 22:52:46 - INFO - mil_case_084: SUCCESS - Text normalized.
+2025-06-18 22:52:46 - INFO - mil_case_084: Teks bersih berhasil disimpan ke ../data/raw/mil_case_084.txt.
+2025-06-18 22:52:46 - INFO - Memulai proses untuk mil_case_085 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f976bc5763096d7313635333232.html
+2025-06-18 22:53:04 - INFO - mil_case_085: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/19b668030de33df5f1a2a30764694e6e/pdf/zaf03f976bc5763096d7313635333232
+2025-06-18 22:53:04 - INFO - mil_case_085: SUCCESS - Text extracted from PDF. Total chars: 74599
+2025-06-18 22:53:04 - INFO - mil_case_085: SUCCESS - Text normalized.
+2025-06-18 22:53:04 - INFO - mil_case_085: Teks bersih berhasil disimpan ke ../data/raw/mil_case_085.txt.
+2025-06-18 22:53:04 - INFO - Memulai proses untuk mil_case_086 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf040592644a2daa285313630303038.html
+2025-06-18 22:53:15 - INFO - mil_case_086: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/8d66398b348bba962f6078b6fc9a66d0/pdf/zaf040592644a2daa285313630303038
+2025-06-18 22:53:15 - INFO - mil_case_086: SUCCESS - Text extracted from PDF. Total chars: 12157
+2025-06-18 22:53:15 - INFO - mil_case_086: SUCCESS - Text normalized.
+2025-06-18 22:53:15 - INFO - mil_case_086: Teks bersih berhasil disimpan ke ../data/raw/mil_case_086.txt.
+2025-06-18 22:53:15 - INFO - Memulai proses untuk mil_case_087 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9ae050cb22808f313530383032.html
+2025-06-18 22:53:18 - ERROR - mil_case_087: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03b9ae050cb22808f313530383032.html
+2025-06-18 22:53:18 - INFO - Memulai proses untuk mil_case_088 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0411f7984b3ecb3e1313533393438.html
+2025-06-18 22:53:36 - INFO - mil_case_088: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/91c90ab992a80d68767d5df57497e992/pdf/zaf0411f7984b3ecb3e1313533393438
+2025-06-18 22:53:36 - INFO - mil_case_088: SUCCESS - Text extracted from PDF. Total chars: 93394
+2025-06-18 22:53:36 - INFO - mil_case_088: SUCCESS - Text normalized.
+2025-06-18 22:53:36 - INFO - mil_case_088: Teks bersih berhasil disimpan ke ../data/raw/mil_case_088.txt.
+2025-06-18 22:53:36 - INFO - Memulai proses untuk mil_case_089 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf046ddb778e7d680b0323330343132.html
+2025-06-18 22:53:49 - INFO - mil_case_089: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/80297c48268953e04828d4335a089510/pdf/zaf046ddb778e7d680b0323330343132
+2025-06-18 22:53:50 - INFO - mil_case_089: SUCCESS - Text extracted from PDF. Total chars: 184648
+2025-06-18 22:53:50 - INFO - mil_case_089: SUCCESS - Text normalized.
+2025-06-18 22:53:50 - INFO - mil_case_089: Teks bersih berhasil disimpan ke ../data/raw/mil_case_089.txt.
+2025-06-18 22:53:50 - INFO - Memulai proses untuk mil_case_090 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0480fbc52bd3ac0c8313133343436.html
+2025-06-18 22:54:16 - ERROR - mil_case_090: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0480fbc52bd3ac0c8313133343436.html
+2025-06-18 22:54:16 - INFO - Memulai proses untuk mil_case_091 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0404ec5fb3664814d313434353532.html
+2025-06-18 22:54:25 - INFO - mil_case_091: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/8311d1c16e973b699c6865744ce4c5bf/pdf/zaf0404ec5fb3664814d313434353532
+2025-06-18 22:54:25 - INFO - mil_case_091: SUCCESS - Text extracted from PDF. Total chars: 95985
+2025-06-18 22:54:25 - INFO - mil_case_091: SUCCESS - Text normalized.
+2025-06-18 22:54:25 - INFO - mil_case_091: Teks bersih berhasil disimpan ke ../data/raw/mil_case_091.txt.
+2025-06-18 22:54:25 - INFO - Memulai proses untuk mil_case_092 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0476f3736c876a3ce313632353434.html
+2025-06-18 22:54:46 - INFO - mil_case_092: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/335ab29e531601d47e08d8a34807b495/pdf/zaf0476f3736c876a3ce313632353434
+2025-06-18 22:54:46 - INFO - mil_case_092: SUCCESS - Text extracted from PDF. Total chars: 49474
+2025-06-18 22:54:46 - INFO - mil_case_092: SUCCESS - Text normalized.
+2025-06-18 22:54:46 - INFO - mil_case_092: Teks bersih berhasil disimpan ke ../data/raw/mil_case_092.txt.
+2025-06-18 22:54:46 - INFO - Memulai proses untuk mil_case_093 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f70c483ceec9893313231363431.html
+2025-06-18 22:55:00 - INFO - mil_case_093: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/7d24e030b12fe2f3e6078a6a3528fc69/pdf/zaf03f70c483ceec9893313231363431
+2025-06-18 22:55:00 - INFO - mil_case_093: SUCCESS - Text extracted from PDF. Total chars: 490184
+2025-06-18 22:55:00 - INFO - mil_case_093: SUCCESS - Text normalized.
+2025-06-18 22:55:00 - INFO - mil_case_093: Teks bersih berhasil disimpan ke ../data/raw/mil_case_093.txt.
+2025-06-18 22:55:00 - INFO - Memulai proses untuk mil_case_094 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f97652fc1eaaec6313635333131.html
+2025-06-18 22:55:11 - INFO - mil_case_094: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/42e2a4a85d754bffb661c124cb61e748/pdf/zaf03f97652fc1eaaec6313635333131
+2025-06-18 22:55:11 - INFO - mil_case_094: SUCCESS - Text extracted from PDF. Total chars: 83083
+2025-06-18 22:55:11 - INFO - mil_case_094: SUCCESS - Text normalized.
+2025-06-18 22:55:11 - INFO - mil_case_094: Teks bersih berhasil disimpan ke ../data/raw/mil_case_094.txt.
+2025-06-18 22:55:11 - INFO - Memulai proses untuk mil_case_095 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03f975d5f188ab0ac313635323538.html
+2025-06-18 22:55:20 - INFO - mil_case_095: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/c745e23711527e2386566bfc9c4f0e6f/pdf/zaf03f975d5f188ab0ac313635323538
+2025-06-18 22:55:20 - INFO - mil_case_095: SUCCESS - Text extracted from PDF. Total chars: 76976
+2025-06-18 22:55:20 - INFO - mil_case_095: SUCCESS - Text normalized.
+2025-06-18 22:55:20 - INFO - mil_case_095: Teks bersih berhasil disimpan ke ../data/raw/mil_case_095.txt.
+2025-06-18 22:55:20 - INFO - Memulai proses untuk mil_case_096 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf03baaa60845528c87313730303536.html
+2025-06-18 22:55:33 - INFO - mil_case_096: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/6eabb7efda1ffe0ec206a6b6ef9db2bc/pdf/zaf03baaa60845528c87313730303536
+2025-06-18 22:55:33 - INFO - mil_case_096: SUCCESS - Text extracted from PDF. Total chars: 71032
+2025-06-18 22:55:33 - INFO - mil_case_096: SUCCESS - Text normalized.
+2025-06-18 22:55:33 - INFO - mil_case_096: Teks bersih berhasil disimpan ke ../data/raw/mil_case_096.txt.
+2025-06-18 22:55:33 - INFO - Memulai proses untuk mil_case_097 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf045ae31b5919ca0f2313035313330.html
+2025-06-18 22:55:49 - INFO - mil_case_097: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/088a25d546673517ef4db9072a194cbb/pdf/zaf045ae31b5919ca0f2313035313330
+2025-06-18 22:55:50 - INFO - mil_case_097: SUCCESS - Text extracted from PDF. Total chars: 80513
+2025-06-18 22:55:50 - INFO - mil_case_097: SUCCESS - Text normalized.
+2025-06-18 22:55:50 - INFO - mil_case_097: Teks bersih berhasil disimpan ke ../data/raw/mil_case_097.txt.
+2025-06-18 22:55:50 - INFO - Memulai proses untuk mil_case_098 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041190c1530949133313435333438.html
+2025-06-18 22:55:55 - ERROR - mil_case_098: FAILED - PDF download link not found on page: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041190c1530949133313435333438.html
+2025-06-18 22:55:55 - INFO - Memulai proses untuk mil_case_099 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf0405196570908b75a313530363030.html
+2025-06-18 22:56:08 - INFO - mil_case_099: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/3bcc54286811c33fbee31531c5a44544/pdf/zaf0405196570908b75a313530363030
+2025-06-18 22:56:08 - INFO - mil_case_099: SUCCESS - Text extracted from PDF. Total chars: 86220
+2025-06-18 22:56:08 - INFO - mil_case_099: SUCCESS - Text normalized.
+2025-06-18 22:56:08 - INFO - mil_case_099: Teks bersih berhasil disimpan ke ../data/raw/mil_case_099.txt.
+2025-06-18 22:56:08 - INFO - Memulai proses untuk mil_case_100 dari URL: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf046ddcd9a07b6a686323330343439.html
+2025-06-18 22:56:23 - INFO - mil_case_100: SUCCESS - PDF downloaded from https://putusan3.mahkamahagung.go.id/direktori/download_file/c8570f851b4d9d0738c093ab554befcc/pdf/zaf046ddcd9a07b6a686323330343439
+2025-06-18 22:56:23 - INFO - mil_case_100: SUCCESS - Text extracted from PDF. Total chars: 6414
+2025-06-18 22:56:23 - INFO - mil_case_100: SUCCESS - Text normalized.
+2025-06-18 22:56:23 - INFO - mil_case_100: Teks bersih berhasil disimpan ke ../data/raw/mil_case_100.txt.
+2025-06-18 22:56:23 - INFO - --- SESI SCRAPING SELESAI ---
